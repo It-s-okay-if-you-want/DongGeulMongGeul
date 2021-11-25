@@ -1,2 +1,1 @@
-# DongGeulMongGeul
-SW 해커톤 7분반 아무거나 해도 괜찮아팀 기획서
+https://docs.google.com/spreadsheets/d/1sICoVdmEY2WhP9xWdsvtx5sf0-MiFbCQPmU-wQLQM2Q/edit#gid=1379200062
